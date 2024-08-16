@@ -1,2 +1,2 @@
 # car-web
-CRUD relacionado a carros com bastante estilo, Show!
+CRUD in Java with stylish car servlet, Show!
